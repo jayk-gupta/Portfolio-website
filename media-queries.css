@@ -303,7 +303,6 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
     top: 24rem;
   }
   .blog-section {
-    border: 2px solid white;
     grid-template-columns: 70%;
     grid-template-rows:1fr 1fr 1fr ;
   justify-content: center;
