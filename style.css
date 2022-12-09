@@ -319,11 +319,13 @@
 .blog-link:hover {
   color: #08fdd8;
 }
+.hashnode-blog{
+grid-column: 1/4;
+text-align: center;
+height: fit-content;
+
+}
 .all-articles {
-  /* border: 2px solid white; */
-  grid-column: 1/4;
-  text-align: center;
-  padding: 2rem 0;
   font-size: 1.5rem;
   color: #08fdd8;
   text-decoration: none;
