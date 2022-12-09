@@ -248,6 +248,7 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
  }
 
 }
+/* ******* */
 /* 400/16 */
 @media (max-width: 25em){
 
@@ -303,11 +304,19 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
     top: 24rem;
   }
   .blog-section {
+    /* border: 2px solid white; */
     grid-template-columns: 70%;
     grid-template-rows:1fr 1fr 1fr ;
   justify-content: center;
   /* margin: 0 auto; */
   
+  }
+  .hashnode-blog{
+    grid-column: 1/2;
+     padding: 1rem 0;
+  }
+  .all-articles{
+font-size: 1rem;
   }
   .blog-box {
     padding: 2rem;
@@ -343,8 +352,6 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
   .contact {
     font-size: 1.5rem;
   }
-
-
 
 
 }
