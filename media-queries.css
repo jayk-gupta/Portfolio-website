@@ -338,7 +338,7 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
     left: -4rem;
   }
   .scroll-right {
-    right: -5rem;
+    right: -4rem;
   }
   .contact {
     font-size: 1.5rem;
