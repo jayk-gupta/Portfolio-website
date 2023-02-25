@@ -22,6 +22,9 @@ This project was built using these technologies:
 
 ___
 
-You can suggest what more to improve or add new features
+## Feedback
+
+I would love to hear your feedback on my portfolio website! Please feel free to contact me through the contact form or by emailing me directly at [jayesh.gupta3224@gmail.com].
+Thank you for visiting my portfolio website!
 
 
