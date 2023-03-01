@@ -217,6 +217,14 @@
     ),
     url("/pexels-lukas-616401\ \(1\).jpg");
 }
+.piano-project {
+  background-image: linear-gradient(
+      rgba(255, 0, 0, 0.336),
+      rgba(255, 0, 0, 0.308)
+    ),
+    url("piano-ss.png");
+}
+
 .dice-project {
   /* background: image position size repeat attachment origin clip color */
   background-image: url("edge2edge-media-uKlneQRwaxY-unsplash.jpg");
