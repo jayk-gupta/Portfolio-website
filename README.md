@@ -2,7 +2,7 @@
 
 My personal portfolio site which features have made from scratch using HTML,CSS and Javascript.It features the projects I have made,my skills and social links.
 
-The website design is inspired from [jacekjeznach] (https://jacekjeznach.com/) webiste and is full responsive.
+The website design is inspired from [jacekjeznach] (https://jacekjeznach.com/) webiste and is fully responsive.
 
 ****
 
