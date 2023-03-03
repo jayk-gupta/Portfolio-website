@@ -20,6 +20,13 @@ This project was built using these technologies:
 4. Fontawesome
 5. Google Fonts
 
+
+***
+# Preview
+
+![portfolio](https://user-images.githubusercontent.com/100681165/222795334-4e4affe1-ac5e-4c21-a603-c69cad2603b9.png)
+
+
 ___
 
 ## Feedback
