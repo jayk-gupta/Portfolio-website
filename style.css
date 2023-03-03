@@ -208,37 +208,50 @@
 }
 /* PROJECTS */
 .food-project {
-  background-image: url("/pexels-ella-olsson-1640777.jpg");
+  background-image: url("ominfood.jpg");
 }
 .doordash-project {
   background-image: linear-gradient(
       rgba(255, 0, 0, 0.336),
       rgba(255, 0, 0, 0.308)
     ),
-    url("/pexels-lukas-616401\ \(1\).jpg");
+    url("doordash.jpg");
 }
 .piano-project {
   background-image: linear-gradient(
       rgba(255, 0, 0, 0.336),
       rgba(255, 0, 0, 0.308)
     ),
-    url("piano-ss.png");
+    url("ppp.png");
 }
 
 .dice-project {
   /* background: image position size repeat attachment origin clip color */
-  background-image: url("edge2edge-media-uKlneQRwaxY-unsplash.jpg");
+  background-image: url("dice.jpg");
 }
 
 .number-project {
-  background-image: url("mika-baumeister-Wpnoqo2plFA-unsplash.jpg");
+  background-image: url("number.jpg");
 }
 .rest-countries{
-background-image: url("istockphoto-1149191912-612x612.jpg");
+background-image: url("rest-countries.jpg");
 }
 .pokedex{
-background-image:url("383733.jpg") ;
+background-image:url("pokemon.jpg") ;
 }
+.wall-clock{
+
+  background-image:url('wall-clock.png') ;
+}
+.room-clock{
+  background-image:url('room-clock.png') ;
+
+
+}
+
+
+
+
 
 /* ************************************************** */
 .about-section {
