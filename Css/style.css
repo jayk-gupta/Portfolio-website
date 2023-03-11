@@ -251,8 +251,6 @@ background-image:url("/images/pokemon.jpg") ;
 
 
 
-
-
 /* ************************************************** */
 .about-section {
   display: grid;
@@ -261,7 +259,7 @@ background-image:url("/images/pokemon.jpg") ;
   padding-left: 6rem;
   margin-bottom: 20rem;
   position: relative;
-  /* border: 2px solid yellow; */
+  border: 2px solid rgb(255, 255, 255);
  
 }
 .about-content {
@@ -280,7 +278,7 @@ background-image:url("/images/pokemon.jpg") ;
 
 .web-technologies {
   /* border: 2px solid white; */
-  padding: 2rem 2rem;
+  padding: 4rem 2rem;
 
 }
 .web-tech-list {
