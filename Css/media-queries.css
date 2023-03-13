@@ -187,6 +187,7 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
 }
 .projects{
   grid-template-columns:repeat(4,1fr) ;
+  grid-template-rows: repeat(3, 10rem);
 }
 .hero-section {
   margin-bottom: 8rem;
@@ -299,7 +300,10 @@ rem and em do NOT depend on html font-size in meadia queries,Instead 1rem = 1em 
     padding-left: 2rem;
     margin-bottom: 4rem;
   }
-
+  .projects{
+    grid-template-columns:repeat(4,1fr) ;
+    grid-template-rows: repeat(3, 8rem);
+  }
   .blog{
     top: 24rem;
   }
