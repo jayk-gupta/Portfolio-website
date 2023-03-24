@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Archivo
+- Font Author: Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)
+- Font Source: http://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRp8B1oJ0vyVQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
