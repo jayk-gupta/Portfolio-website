@@ -243,12 +243,19 @@ background-image:url("/images/pokemon.jpg") ;
 
   background-image:url('/images/wall-clock.png') ;
 }
-.room-clock{
-  background-image:url('/images/room-clock.png') ;
+.expense-tracker{
 
-
+background-image:  linear-gradient(
+      rgba(255, 0, 0, 0.336),
+      rgba(255, 255, 255, 0.308)
+    ), url('/images/expense-tracker.png');
 }
-
+.portfolio-site{
+background-image:  linear-gradient(
+      rgba(19, 0, 0, 0.336),
+      rgba(0, 0, 0, 0.308)
+    ), url('/images/portfolio-site.png');
+}
 
 
 /* ************************************************** */
