@@ -225,19 +225,23 @@
     url("/images/ppp.png");
 }
 
-.dice-project {
+.todo-list{
   /* background: image position size repeat attachment origin clip color */
-  background-image: url("/images/dice.jpg");
+  background-image: url("/images/todo-list.png");
+}
+.web-resources{
+  /* background: image position size repeat attachment origin clip color */
+  background-image: url("/images/web-resources.png");
 }
 
 .number-project {
   background-image: url("/images/number.jpg");
 }
-.rest-countries{
-background-image: url("/images/rest-countries.jpg");
+.world-wise{
+background-image: url("/images/world-wise.png");
 }
-.pokedex{
-background-image:url("/images/pokemon.jpg") ;
+.movies{
+background-image:url("/images/movies.png") ;
 }
 .wall-clock{
 
@@ -289,7 +293,7 @@ background-image:  linear-gradient(
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1rem;
   font-size: 2.5rem;
   margin: 2rem 2rem;
   color: #08fdd8;
